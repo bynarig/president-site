@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'bootstrap/scss/bootstrap';
+
+body {
+    max-width: 85%;
+    margin: 0 auto;
+    color: white;
+    text-decoration: none;
+    background-color: rgba(41, 43, 46, 1);
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
+}

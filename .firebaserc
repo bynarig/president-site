@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "vector-proj-c3d2a"
+  },
+  "targets": {
+    "vector-proj-c3d2a": {
+      "hosting": {
+        "president-site": [
+          "vector-speaker-party"
+        ]
+      }
+    }
+  }
+}
